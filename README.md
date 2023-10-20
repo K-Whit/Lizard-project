@@ -25,8 +25,8 @@ Data:
 - Each transect is positioned parallel to the reef slope using a line of tape
 
 ---
-Data source: Available only on request 
+Data source: 
 
-- [Aims long term monitoring program - Fixed sites] [https://www.aims.gov.au/research-topics/monitoring-and-discovery/monitoring-great-barrier-reef/long-term-monitoring-program)https://www.aims.gov.au/research-topics/monitoring-and-discovery/monitoring-great-barrier-reef/long-term-monitoring-program]
+- [Aims long term monitoring program - Fixed sites] [https://www.aims.gov.au/research-topics/monitoring-and-discovery/monitoring-great-barrier-reef/long-term-monitoring-program)https://www.aims.gov.au/research-topics/monitoring-and-discovery/monitoring-great-barrier-reef/long-term-monitoring-program] Available only on request 
 
 
