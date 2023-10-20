@@ -1,29 +1,32 @@
 **Project overview**
 
-## Modelling 40 Years of Community Change on Lizard Reef: An Investigation into the Effects of Multiple Interacting Climate Change Factors
+## Modeling 27 Years of Community Composition at Lizard Island Reef (1995-2022): Exploring the Impact of Multiple Interacting Climate Change Factors on Corals
 
 Aim:
-- To model the effects of climate change on coral reefs
+- To model the effects of climate change on the coral reef benthic community
 
 
 Objectives: 
-1. Explore a range of potential environmental stressors based on existing literature 
-2. Test our chosen factors in isolation and in combination to identify the main stressors that affect the reef over time
-3. Attempt to define a set of parameters that can be used to predict future changes in coral cover
+1. Understand the trends in coral cover on Lizard Island Reef over a 27-year period
+2. Determine the effects of multiple environmental stressors on coral ecosystems
+3. Suggest which environmental stressors may have the greatest impact on corals
 
 ---
 Analysis Plan:
-1. plot change in coral cover over time
-2. Plot change in coral community over time
-3. Plot the annual anomaly temperature, salinity, sea level, turbidity, rainfall, wind, wave energy etc.
-4. Plot major disturbance events, e.g. bleaching, cyclones
-5. Make a plot that demonstrates the relationship between temporal trends in coral cover/community and environmental disturbance 
-
+1. Model change in hard coral cover over time
+2. Model change in the coral benthic community over time
+3. Model the relationship between major disturbance events and coral benthic community
 
 ---
-Data repositories:
+Data:
+- Ecological surveys were conducted at Lizard Island reef between 1995 and 2022 as part of the AIMS Fixed sites long term monitoring program
+- Sites were sampled every year from 1995 to 2005, and every second year from 2005 to 2022 which resulted in 20 different time points
+- Each site consists of 5x50 m transects
+- Each transect is positioned parallel to the reef slope using a line of tape
 
-- [Rep1](https://www.example.com)
-- [Rep2](https://www.example.com)
-- [Rep3](https://www.example.com)
+---
+Data source: Available only on request 
+
+- [Aims long term monitoring program - Fixed sites] [https://www.aims.gov.au/research-topics/monitoring-and-discovery/monitoring-great-barrier-reef/long-term-monitoring-program)https://www.aims.gov.au/research-topics/monitoring-and-discovery/monitoring-great-barrier-reef/long-term-monitoring-program]
+
 
