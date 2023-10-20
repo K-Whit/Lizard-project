@@ -18,11 +18,16 @@ Analysis Plan:
 3. Model the relationship between major disturbance events and coral benthic community
 
 ---
-Data:
+Data collection: 
 - Ecological surveys were conducted at Lizard Island reef between 1995 and 2022 as part of the AIMS Fixed sites long term monitoring program
 - Sites were sampled every year from 1995 to 2005, and every second year from 2005 to 2022 which resulted in 20 different time points
-- Each site consists of 5x50 m transects
+- There are three sites at Lizard reef that consists of 5x50 m transects
 - Each transect is positioned parallel to the reef slope using a line of tape
+
+Data files:
+- 'Lizard_totalcover.csv': each row represents a type of species within a transect with a value under the column 'cover' which represents the total cover of that species within that transect
+- 'lizdat.csv': This data is based on the raw 'Lizard_totalcover.csv' data. The rows represent the different transects (1 to 300: 15 transects x 20 years) and the columns represent the different types of identified benthic groups
+- 'lizfac.csv': The rows in this file correspond to the same rows in the 'lizdat.csv' file. The columns represent the year, site no., and transect no. for each of the transects
 
 ---
 Data source: 
